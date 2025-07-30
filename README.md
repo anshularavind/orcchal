@@ -1,4 +1,4 @@
-# Orchids SWE Intern Challenge Template
+#LLM-Based Website Preview Generator
 
 This project consists of a backend built with FastAPI and a frontend built with Next.js and TypeScript.
 
